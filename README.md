@@ -41,6 +41,6 @@ In general I don't have much experience, but there are some languages I had cont
 
 [Twitter](https://twitter.com/LuizFStaudt)
 
-You can e-mail me trough: ✉ [luizf.staudt@gmail.com]()
+You can e-mail me through: ✉ [luizf.staudt@gmail.com]()
 ***
 Qual o motivo de viver uma vida chata se a gente vai morrer mesmo.
