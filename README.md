@@ -33,9 +33,8 @@ In general I don't have much experience, but there are some languages I had cont
 - Listening to music
 - Playing Volley
 - Staying with people i like
-- Watching  Anime                *(I don't really like any series)
 
-![One piece Best Anime](https://media.tenor.com/images/13dabe2f7ae069cbabf9171cd1b9251c/tenor.gif)
+
 
 # **❖Social Networks and How you can reach me!**
 
