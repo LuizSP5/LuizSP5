@@ -4,7 +4,7 @@ My name is Luiz Felipe Roth Staudt, i'm just a Brazilian person. Currently I'm a
 
 ## **❖What are my interests in the computer area?** 
 
-Currently I am looking forward to learn an high-level programming language like Python. And learn more about the hardware area in general, I also have a possible interest in becoming a computer hardware engineer.
+Currently I am looking forward to learn an high-level programming language like Python, something related to networks and possibly enter in the college for computer science or computer hardware engineer.
     
 ## **❖My programming skills**
 
@@ -17,7 +17,7 @@ In general I don't have much experience, but there are some languages I had cont
 
 > JavaScript
  
-#### I'm going to learn these
+#### I'm still trying to learn these
 > Python
 
 >Java
@@ -32,7 +32,7 @@ In general I don't have much experience, but there are some languages I had cont
 - Travelling
 - Listening to music
 - Playing Volley
-- Staying with people i like
+- Be with people i like
 
 
 
@@ -42,4 +42,4 @@ In general I don't have much experience, but there are some languages I had cont
 
 You can e-mail me through: ✉ [luizf.staudt@gmail.com]()
 ***
-Qual o motivo de viver uma vida chata se a gente vai morrer mesmo.
+
