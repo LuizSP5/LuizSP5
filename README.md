@@ -7,8 +7,6 @@ My name is Luiz Felipe Roth Staudt, i'm Brazilian. Currently I'm attending colle
 
 > C
 
-> HTML with CSS
-
 > JavaScript
 
 > Python
