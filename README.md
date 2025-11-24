@@ -17,14 +17,12 @@ My name is Luiz Felipe Roth Staudt, i'm Brazilian. Currently I'm attending colle
 
 # **❖Social Networks and How you can reach me!**
 
-[Twitter](https://twitter.com/LuizFStaudt)
-
 [LinkedIn](https://br.linkedin.com/in/luiz-felipe-roth-staudt-2a9543271)
 
 [Lattes](http://lattes.cnpq.br/5198650926114429)
 
 You can e-mail me through: 
 ✉ [luizf.staudt@gmail.com]() 
-✉ [luiz.staudt@redes.ufsm.br]()
+or [luiz.staudt@redes.ufsm.br]()
 ***
 
