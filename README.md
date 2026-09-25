@@ -1,15 +1,12 @@
-# **❖HELLO WORLD!**
-
 My name is Luiz Felipe Roth Staudt, i'm Brazilian. Currently I'm attending college at UFSM, in the area of computer networks.
 
     
-#### Languagues i have some experience 
-
+#### Programming Languagues 
 > C
 
 > JavaScript
 
-> Python
+> Python (Django, FLask)
  
 
 
