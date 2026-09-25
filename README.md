@@ -3,9 +3,7 @@ My name is Luiz Felipe Roth Staudt, i'm Brazilian. Currently I'm attending colle
     
 #### Programming Languagues 
 > C
-
 > JavaScript
-
 > Python (Django, FLask)
  
 
@@ -18,8 +16,8 @@ My name is Luiz Felipe Roth Staudt, i'm Brazilian. Currently I'm attending colle
 
 [Lattes](http://lattes.cnpq.br/5198650926114429)
 
-You can e-mail me through: 
+Mail me through: 
 ✉ [luizf.staudt@gmail.com]() 
-or [luiz.staudt@redes.ufsm.br]()
+
 ***
 
