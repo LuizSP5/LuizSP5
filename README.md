@@ -3,7 +3,9 @@ My name is Luiz Felipe Roth Staudt, i'm Brazilian. Currently I'm attending colle
     
 #### Programming Languagues 
 > C
+
 > JavaScript
+
 > Python (Django, FLask)
  
 
